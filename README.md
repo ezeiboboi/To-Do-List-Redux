@@ -1,1 +1,1 @@
-  A To-Do List Project
+  A To-Do List Project.
